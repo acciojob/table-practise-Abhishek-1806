@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+table, th, td{
+	border: solid;
+	border-width: 1px;
+	background: yellow;
+}
+
+div{
+	width: 130px
+}
+
+p{
+	margin-bottom: 0;
+	display: flex;
+	justify-content: center;
+}
